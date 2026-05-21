@@ -1,17 +1,23 @@
-body{
-    background-color: black;
-    color: white;
+body {
+  background-color: black;
+  color: white;
 }
 
-h1{
-    color: red;
+h1 {
+  color: red;
 }
 
-h2{
-    color: blue;
+h2 {
+  color: blue;
+}
+h3 {
+  color: yellow;
 }
 
-p{
-    color: green;
+p {
+  color: green;
 }
-
+image {
+  width: 200px;
+  height: 200px;
+}
